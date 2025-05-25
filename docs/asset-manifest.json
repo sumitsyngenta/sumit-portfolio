@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b11c8364.css",
+    "main.js": "/static/js/main.3a14a09d.js",
+    "static/media/PassPhotoColor.jpg": "/static/media/PassPhotoColor.46188da0c4ad7d716882.jpg",
+    "index.html": "/index.html",
+    "main.b11c8364.css.map": "/static/css/main.b11c8364.css.map",
+    "main.3a14a09d.js.map": "/static/js/main.3a14a09d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11c8364.css",
+    "static/js/main.3a14a09d.js"
+  ]
+}
