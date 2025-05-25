@@ -12,6 +12,7 @@ const Header = () => {
                     <Link to="/skills" className={styles.navLink}>Skills</Link>
                     <Link to="/experience" className={styles.navLink}>Experience</Link>
                     <Link to="/contact" className={styles.navLink}>Contact</Link>
+                    <Link to="/courses" className={styles.navLink}>Certifications/Courses</Link>
                 </div>
             </nav>
         </header>
